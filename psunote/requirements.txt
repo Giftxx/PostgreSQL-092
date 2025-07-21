@@ -1,0 +1,6 @@
+flask
+flask-wtf
+flask-sqlalchemy
+wtforms-sqlalchemy
+# psycopg2-binary
+psycopg2-binary --only-binary :all:
